@@ -6,3 +6,15 @@ It only contains the files you want it to contain as you may not need all the fi
 
 What value do you think it offers?
 You can store other files in your working DIR without worrying that they will be added to GIT
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+I am not sure lets see what they say,
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? 
+
+
+
+How would branches help?
