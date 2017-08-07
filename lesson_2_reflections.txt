@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creats the directory structure for the GIT repository for that porject.  
+
+How is the staging area different from the working directory and the repository? 
+It only contains the files you want it to contain as you may not need all the files in the working directoy to be available in your repository.
+
+What value do you think it offers?
+You can store other files in your working DIR without worrying that they will be added to GIT
