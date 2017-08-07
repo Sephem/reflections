@@ -1,0 +1,9 @@
+I like learning the diff output but I found ti a bit complicated to understand.
+
+I really need to get the hang of working with my local environment for coding.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+well it will help when I make a mistake and save over a file or delete a file by mistake. I would then be able to recover quickly and roll back any mistakes I madse,
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+It is because they are used for different things. Dropbox is more like a file server where GIT is designed for source code where files are needed to be kept together and need eachother to work properly,
