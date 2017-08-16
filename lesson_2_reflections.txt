@@ -1,33 +1,27 @@
-What happens when you initialize a repository? Why do you need to do it?
-It creats the directory structure for the GIT repository for that porject.  
+Q. What happens when you initialize a repository? Why do you need to do it?
+A. It creats the directory structure for the GIT repository for that porject.  
 
-How is the staging area different from the working directory and the repository? 
-It only contains the files you want it to contain as you may not need all the files in the working directoy to be available in your repository.
+Q. How is the staging area different from the working directory and the repository? 
+A. It only contains the files you want it to contain as you may not need all the files in the working directoy to be available in your repository.
 
-What value do you think it offers?
-You can store other files in your working DIR without worrying that they will be added to GIT
-
-
-How can you use the staging area to make sure you have one commit per logical change?
-I am not sure lets see what they say,
+Q. What value do you think it offers?
+A. You can store other files in your working DIR without worrying that they will be added to GIT
 
 
+Q. How can you use the staging area to make sure you have one commit per logical change?
+A. 
 
-What are some situations when branches would be helpful in keeping your history organized? 
+Q. What are some situations when branches would be helpful in keeping your history organized? 
+A. 
 
+Q. How would branches help?
+A. 
 
+Q. How do the diagrams help you visualize the branch structure?
+A. 
 
-How would branches help?
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A. 
 
-
-
-How do the diagrams help you visualize the branch structure?
-
-
-
-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-
-
-
-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-
+Q. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A. 
